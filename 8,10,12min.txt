@@ -1,0 +1,60 @@
+Tissue #1:
+time=8 minutes
+ppn2=3.16
+ceiling_pressure=0.9595505000000001
+sea_6=0.3566546474966383
+(1, 0)
+
+time=10 minutes
+ppn2=3.3913856428626277
+ceiling_pressure=1.076400249645627
+sea_6=0.3936877438637097
+(2, 0)
+
+time=12 minutes
+ppn2=3.555
+ceiling_pressure=1.1590255
+sea_6=0.4183793281676285
+(2, 0)
+
+
+Tissue #2:
+time=8 minutes
+ppn2=2.37
+ceiling_pressure=0.892418
+sea_6=0.25591865939376257
+(1, 0)
+
+time=10 minutes
+ppn2=2.6213836638991315
+ceiling_pressure=1.0561693186638943
+sea_6=0.32158589442100904
+(1, 0)
+
+time=12 minutes
+ppn2=2.832771285725255
+ceiling_pressure=1.1938672155214312
+sea_6=0.37210256393988916
+(2, 0)
+
+
+Tissue #3:
+time=8 minutes
+ppn2=1.9221870818506113
+ceiling_pressure=0.7658115505125114
+sea_6=0.1324831479632126
+(1, 0)
+
+time=10 minutes
+ppn2=2.135056599104685
+ceiling_pressure=0.9195459158734034
+sea_6=0.2083287794471004
+(1, 0)
+
+time=12 minutes
+ppn2=2.325580153883415
+ceiling_pressure=1.0571420271346021
+sea_6=0.27005438208128313
+(1, 0)
+
+
